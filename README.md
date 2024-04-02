@@ -1,3 +1,6 @@
+                                                Hi 👋 I'm Shubham Chauhan AKA BhagatCodes
+                                                  A passionate Web Developer from India
+
 - 👋 Hi, I’m @BhagatCodes
 - 👀 I’m interested in MERN Stack and DSA with C++
 - 🌱 I’m currently learning MERN Stack and DSA
