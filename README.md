@@ -1,9 +1,9 @@
                                                 Hi 👋 I'm Shubham Chauhan AKA BhagatCodes
-                                                  A passionate Web Developer from India
+                                                  A passionate Full Stack Web Developer from India
 
 - 👋 Hi, I’m @BhagatCodes
-- 👀 I’m interested in MERN Stack and DSA with C++
-- 🌱 I’m currently learning MERN Stack and DSA
+- 👀 I’m a Full Stack PHP Laravel Developer and have good Knowledge of DSA in Java.
+- 🌱 I’m currently enhancing my Full Stack Development Skills learning about optimizing code and delivering best code quality
 - 💞️ I’m looking to collaborate on Web Developement Projects
 - 📫 How to reach me shubhamchauhanbhagat@gmail.com
 - 😄 Pronouns: he/him
